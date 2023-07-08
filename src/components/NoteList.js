@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+
 import {
   Box,
   CircularProgress,
@@ -91,6 +92,9 @@ const NoteList = () => {
                 </Typography>
                 <Typography variant="body1" gutterBottom>
                   User: {note.user}
+                  <p>Notes: Under Deployment.</p>
+      
+                
                 </Typography>
               </Box>
             </Collapse>
