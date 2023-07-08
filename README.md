@@ -71,3 +71,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 #App Demo Working API
 
+![APIdemo](https://github.com/Shivam9456Singh/apifetch/assets/113454708/0183aab1-33fc-4fa9-83d5-126ae6beab0f)
+
+https://github.com/Shivam9456Singh/apifetch/assets/113454708/b4e54fa6-1ac4-43e0-a444-49fef3aa2a45
+
+
