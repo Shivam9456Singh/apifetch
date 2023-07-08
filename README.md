@@ -1,8 +1,14 @@
 #App Demo Working API
 
-![APIdemo](https://github.com/Shivam9456Singh/apifetch/assets/113454708/0183aab1-33fc-4fa9-83d5-126ae6beab0f)
 
-https://github.com/Shivam9456Singh/apifetch/assets/113454708/b4e54fa6-1ac4-43e0-a444-49fef3aa2a45
+![FireShot Capture 072 - Book Library - localhost](https://github.com/Shivam9456Singh/apifetch/assets/113454708/16cf0a71-8dc3-41a0-9bc7-5ca6b007b648)
+
+
+
+https://github.com/Shivam9456Singh/apifetch/assets/113454708/69841157-8a08-4c4d-9758-07828855c751
+
+#notes: 
+The Api end point in notes: section was not supportive to read as json file by react as notes section was in a string fromat that i have tried to make it in correct format but still not working , API call is made successfull but the data was not fetched by notes section.
 
 # Getting Started with Create React App
 
