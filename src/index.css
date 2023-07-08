@@ -5,6 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(26, 36, 36);
+  background-image: url("https://thumbs.gfycat.com/AfraidClearKakarikis-size_restricted.gif");
+  background-repeat:no-repeat;
+  background-size: cover;
 }
 
 code {

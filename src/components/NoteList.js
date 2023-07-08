@@ -87,7 +87,7 @@ const NoteList = () => {
             <Collapse in={expandedNote === note.id}>
               <Box mt={2} bgcolor="#F8F8F8" p={2} borderRadius={8}>
                 <Typography variant="subtitle1" gutterBottom color="text.secondary">
-                  Category: {note.category}
+                  Category name: {note.category}
                 </Typography>
                 <Typography variant="body1" gutterBottom>
                   User: {note.user}
