@@ -74,7 +74,7 @@ const NoteList = () => {
                 transform: 'scale(1.02)',
                 transition: 'transform 0.2s ease-in-out',
               },
-            }}
+            }}npm 
           >
             <Box display="flex" alignItems="center" justifyContent="space-between">
               <TitleTypography variant="h6" gutterBottom color="primary.main">

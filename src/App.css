@@ -8,7 +8,9 @@
 
 }
 
-
+img{
+align-items:flex-start;
+}
 
 .App-logo {
   height: 40vmin;

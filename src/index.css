@@ -9,6 +9,7 @@ body {
   background-image: url("https://thumbs.gfycat.com/AfraidClearKakarikis-size_restricted.gif");
   background-repeat:no-repeat;
   background-size: cover;
+  background-attachment: fixed;
 }
 
 code {
